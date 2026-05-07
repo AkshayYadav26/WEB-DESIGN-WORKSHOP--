@@ -1,0 +1,24 @@
+.mainbox{
+    width: 500px;
+   
+    border: 2px solid ;
+   
+}
+
+.inputbox{
+
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     gap: 15px;
+     margin-top: 50px;
+     
+     
+}
+
+button{
+    font-size: 18px;
+   color: red;
+}
+
